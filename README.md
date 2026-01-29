@@ -1,4 +1,4 @@
-# 3d Portfolio 
+# 3D Portfolio 
 
 Personal Portfolio website designed using ThreeJS
 
